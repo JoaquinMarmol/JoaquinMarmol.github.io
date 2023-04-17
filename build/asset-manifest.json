@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.0d2ff5af.css",
+    "main.js": "/build/static/js/main.2b67199b.js",
+    "static/media/mock2.png": "/build/static/media/mock2.7eb963373ef1e3fe7526.png",
+    "static/media/mock1.png": "/build/static/media/mock1.04e6607b7ea755a0deaa.png",
+    "static/media/self.png": "/build/static/media/self.112a6a9e84929646373a.png",
+    "index.html": "/build/index.html",
+    "main.0d2ff5af.css.map": "/build/static/css/main.0d2ff5af.css.map",
+    "main.2b67199b.js.map": "/build/static/js/main.2b67199b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2ff5af.css",
+    "static/js/main.2b67199b.js"
+  ]
+}
