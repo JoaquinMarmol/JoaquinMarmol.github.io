@@ -1,6 +1,7 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
+import cv from "../img/CVJoaquinMarmol.pdf"
 
 
 
@@ -25,8 +26,12 @@ export const info = {
             text: 'based in the Argentina'
         },
         {
+            emoji: "👨‍🎓",
+            text: "certified Professional Developer from Digital House"
+        },
+        {
             emoji: "📚",
-            text: "Student from Digital House"
+            text: "actually Student from Conquer Blocks"
         },
         {
             emoji: "📧",
@@ -35,12 +40,12 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
+        link: "https://gitlab.ctd.academy/JoaquinMarmol",
+        icon: 'fa fa-gitlab',
+        label: 'instagram'
         },
         {
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/joaquin.marmol/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
@@ -58,15 +63,20 @@ export const info = {
             link: "joaquinmarmolnecoceha@gmail.com",
             icon: "fa fa-envelope",
             label: 'twitter'
+        },
+        {
+            link: cv,
+            icon: "fa fa-download",
+            label: 'download'
         }
 
 
     ],
-    bio: "Hello! I'm Joaquin. I'm a student from Digital House. I enjoy long walks on the beach with my dog, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Joaquin. I'm a certified Professional Developer from Digital House and actually a student from Conquer Blocks. I enjoy to spend time with my family and friends, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'java', 'git', 'github', 'bootstrap', 'html', 'css'],
-            exposedTo: ['nodejs', 'python']
+            proficientWith: ['Javascript', 'React', 'Java', 'Git', 'Github', 'Bootstrap', 'Html', 'Css'],
+            exposedTo: [ 'Python', 'Solidity', 'Rust' ]
         }
     ,
     hobbies: [
@@ -79,12 +89,16 @@ export const info = {
             emoji: '⚽'
         },
         {
+            label: 'padel',
+            emoji: '🎾'
+        },
+        {
             label: 'movies',
             emoji: '🎥'
         },
         {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'coding',
+            emoji: '💻'
         }
 
     ],
