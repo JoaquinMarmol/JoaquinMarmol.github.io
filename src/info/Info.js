@@ -31,7 +31,7 @@ export const info = {
         },
         {
             emoji: "📚",
-            text: "actually Student from Conquer Blocks"
+            text: "student from Conquer Blocks"
         },
         {
             emoji: "📧",
@@ -39,11 +39,6 @@ export const info = {
         }
     ],
     socials: [
-        {
-        link: "https://gitlab.ctd.academy/JoaquinMarmol",
-        icon: 'fa fa-gitlab',
-        label: 'instagram'
-        },
         {
             link: "https://www.instagram.com/joaquin.marmol/",
             icon: 'fa fa-instagram',
@@ -75,7 +70,7 @@ export const info = {
     bio: "Hello! I'm Joaquin. I'm a certified Professional Developer from Digital House and actually a student from Conquer Blocks. I enjoy to spend time with my family and friends, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['Javascript', 'React', 'Java', 'Git', 'Github', 'Bootstrap', 'Html', 'Css'],
+            proficientWith: ['Javascript', 'React', 'Java', 'Git', 'Github', 'Bootstrap', 'HTML', 'CSS','MySQL' ],
             exposedTo: [ 'Python', 'Solidity', 'Rust' ]
         }
     ,
