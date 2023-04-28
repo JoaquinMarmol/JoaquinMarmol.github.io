@@ -5,7 +5,7 @@ import cv from "../img/CVJoaquinMarmol.pdf"
 
 
 
-export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
+export let colors = ["#ff0000", "#ffff00"];
 
 
 export const info = {
@@ -27,7 +27,7 @@ export const info = {
         },
         {
             emoji: "👨‍🎓",
-            text: "certified Professional Developer from Digital House"
+            text: "Professional Developer from Digital House"
         },
         {
             emoji: "📚",
@@ -55,9 +55,9 @@ export const info = {
             label: 'linkedin'
         },
         {
-            link: "joaquinmarmolnecoceha@gmail.com",
+            link: "mailto:joaquinmarmolnecochea@gmail.com",
             icon: "fa fa-envelope",
-            label: 'twitter'
+            label: 'gmail'
         },
         {
             link: cv,
@@ -67,7 +67,7 @@ export const info = {
 
 
     ],
-    bio: "Hello! I'm Joaquin. I'm a certified Professional Developer from Digital House and actually a student from Conquer Blocks. I enjoy to spend time with my family and friends, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Joaquin. I'm a certified Professional Developer from Digital House and actually a student from Conquer Blocks. I enjoy to spend time with my family and friends, I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
             proficientWith: ['Javascript', 'React', 'Java', 'Git', 'Github', 'Bootstrap', 'HTML', 'CSS','MySQL' ],
