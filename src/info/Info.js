@@ -1,12 +1,14 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
+import mock3 from "../img/mock3.png"
 import cv from "../img/CVJoaquinMarmol.pdf"
 
 
 
 export let colors = ["#ff0000", "#ffff00"];
 
+export let color = ["#ff9100"]
 
 export const info = {
     firstName: "Joaquin",
@@ -15,7 +17,7 @@ export const info = {
     position: "a Full Stack Developer",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, 
-    baseColor: colors[0],
+    baseColor: color,
     miniBio: [ 
         {
             emoji: '☕',
@@ -67,7 +69,7 @@ export const info = {
 
 
     ],
-    bio: "Hello! I'm Joaquin. I'm a certified Professional Developer from Digital House and actually a student from Conquer Blocks. I enjoy to spend time with my family and friends, I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "I'm Joaquín, a Certified Professional Developer from Digital House expanding my skills in Blockchain programming at Conquer Blocks. I'm passionate about learning and staying up-to-date with the latest software development trends. My goal is to help companies create innovative solutions using my experience in developing web and mobile applications with various technologies and programming languages. I'm excited about the potential of artificial intelligence to change our world, and I'm a responsible and committed individual who is always seeking opportunities to improve my skills",
     skills:
         {
             proficientWith: ['Javascript', 'React', 'Java', 'Git', 'Github', 'Bootstrap', 'HTML', 'CSS','MySQL' ],
@@ -99,16 +101,22 @@ export const info = {
     ],
     portfolio: [ 
         {
-            title: "Project 1",
+            title: "M.A.S",
             live: "https://medioambienteyseguridad.com.ar/", 
             source: "https://github.com/AlvarezBautista/PaginaMas", 
             image: mock1
         },
         {
-            title: "Project 2",
+            title: "Aramaio Tecnologia Informatica",
+            live: "https://aramaio-cursos.com/",
+            source: "https://github.com/JoaquinMarmol/CampusAramaio",
+            image: mock2
+        },
+        {
+            title: "Vintage Cars",
             live: "http://vintagecar.sytes.net/",
             source: "https://gitlab.ctd.academy/ctd/proyecto-integrador-1022/0222-ft-c1/grupo-07",
-            image: mock2
+            image: mock3
         },
     ]
 }
