@@ -1,5 +1,4 @@
 
-# Portfolio
 <h1 align="center">Hi 👋, I'm Joaquin Marmol</h1>
 <h3 align="center">A passionate blockchain fullstack developer</h3>
 
