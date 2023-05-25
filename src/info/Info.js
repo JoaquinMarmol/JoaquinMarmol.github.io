@@ -69,7 +69,7 @@ export const info = {
 
 
     ],
-    bio: "I'm Joaquín, a Certified Professional Developer from Digital House expanding my skills in Blockchain programming at Conquer Blocks. I'm passionate about learning and staying up-to-date with the latest software development trends. My goal is to help companies create innovative solutions using my experience in developing web and mobile applications with various technologies and programming languages. I'm excited about the potential of artificial intelligence to change our world, and I'm a responsible and committed individual who is always seeking opportunities to improve my skills",
+    bio: "I'm Joaquín, a Certified Professional Developer from Digital House, actively developing my skills in Blockchain programming at Conquer Blocks. My main objective is to empower companies by staying abreast of emerging technologies and equipping them with web 3 capabilities. By leveraging my expertise in diverse technologies and programming languages for web application development, I aim to create innovative solutions. The incredible transformative power of artificial intelligence excites me, and I'm fully committed to personal growth, continuously seeking opportunities to enhance my skills.",
     skills:
         {
             proficientWith: ['Javascript', 'React', 'Java', 'Git', 'Github', 'Bootstrap', 'HTML', 'CSS','MySQL' ],
@@ -108,7 +108,7 @@ export const info = {
         },
         {
             title: "Aramaio Tecnologia Informatica",
-            live: "https://aramaio-cursos.com/",
+            live: "https://aramaio-cursos.ar",
             source: "https://github.com/JoaquinMarmol/CampusAramaio",
             image: mock2
         },
