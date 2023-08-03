@@ -19,5 +19,6 @@ li {
 }
 
 .link:hover {
-  color: unset;
+    color: $coral;
+    transition: color 200ms ease;
 }

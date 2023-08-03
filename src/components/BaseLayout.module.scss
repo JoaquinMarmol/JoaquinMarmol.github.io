@@ -17,6 +17,20 @@ footer {
   a:visited {
     color: $white;
   }
+   
+  a:hover {
+    color: $coral;
+    transition: color 200ms ease;
+  }
+  
+  i:hover {
+    color: $coral;
+  }
+
+  .link:hover {
+    color: $coral;
+    transition: color 200ms ease;
+  }
 
   footer {
     color: $white;
