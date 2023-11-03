@@ -3,6 +3,8 @@ import mock1 from '../img/mock1.png'
 import mock2 from '../img/mock2.png'
 import mock3 from '../img/mock3.png'
 import mock4 from '../img/mock4.png'
+import mock5 from '../img/mock5.png'
+
 import cv from '../img/CVJoaquinMarmol.pdf'
 
 export let colors = ['#ff0000', '#ffff00']
@@ -128,6 +130,12 @@ export const info = {
       live: 'https://crysistudio.tech/',
       source: 'https://github.com/facucarrion/crysis-studio',
       image: mock4
+    },
+    {
+      title: 'Upler',
+      live: 'https://upler.tech/',
+      source: 'https://github.com/UplerSolutions/UplerSolutions.github.io',
+      image: mock5
     }
   ]
 }
